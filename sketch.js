@@ -9,4 +9,5 @@ function setup() {
   fill(255);
  ellipse(width/2-50+25, height/2-50+30, 20, 20)
  ellipse(width/2-50+70, height/2-50+30, 30, 30)
+ line(width/2-30, height/2+30, width/2+30, height/2+30)
 }
